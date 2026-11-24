@@ -36,16 +36,6 @@
 
 ### 🧩 A Little Something About Shivam
 
-```text
-+-------------------------------------------------------+
-|  Name   : Shivam Singh                                |
-|  Status : 2nd Year Engineering Student                |
-|  Stack  : C++, Java, JS, Python, HTML, CSS, React, TS |
-|  Focus  : AI-powered builds + debugging software      |
-|  Machine: Mac                                         |
-+-------------------------------------------------------+
-```
-
 ```python
 class ShivamSingh:
     def __init__(self):
@@ -62,14 +52,3 @@ class ShivamSingh:
 if __name__ == "__main__":
     shivam = ShivamSingh()
     print(shivam.current_mode())
-```
-
----
-
-### 🐍 Contribution Graph Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg)">
-  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg)">
-</picture>
