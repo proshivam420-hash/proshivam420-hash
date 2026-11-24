@@ -1,5 +1,10 @@
-<h1 align="center">Hi there, I'm Shivam Singh 👋</h1>
-<p align="center">2nd Year Engineering Student • Writing code & building new projects with the help of AI</p>
+<div align="center">
+
+  <a href="https://github.com/proshivam420-hash">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Shivam+Singh+%F0%9F%91%8B;2nd+Year+Engineering+Student;Building+with+AI+%26+Debugging+on+Mac" alt="Shivam Singh Animated Header" />
+  </a>
+
+</div>
 
 ---
 
@@ -13,29 +18,48 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**🔹 Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts&perline=5&theme=dark" alt="Languages" />
+</p>
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**🎨 Frontend & Web**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react&perline=5&theme=dark" alt="Frontend & Web" />
+</p>
 
-#### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**⚙️ Backend, APIs & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,git&perline=5&theme=dark" alt="Backend, APIs & DevOps" />
+</p>
+
+**💻 Environment & IDEs**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,apple,terminal&perline=5&theme=dark" alt="Environment & IDEs" />
+</p>
 
 ---
 
+### 🚀 Featured Engineering Projects
+* **LoopYard:** Closed-loop industrial waste management and factory symbiosis dashboard built for B.Tech engineering coursework[cite: 3, 6, 8].
+* **Lost & Found:** Web application for reporting and tracking lost and found items cleanly[cite: 6, 8].
+* **AI & Automation Prototypes:** Practical tools and scripts built with AI assistance to automate workflows and debug software faster.
 
-### 🐍 Contribution Graph Snake
+---
+
+### 📊 GitHub Metrics & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=proshivam420-hash&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam Singh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proshivam420-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Activity & Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake-dark.svg">
