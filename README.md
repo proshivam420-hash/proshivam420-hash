@@ -41,8 +41,18 @@
 |  Machine: Mac                                         |
 +-------------------------------------------------------+
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishantv2309-ux/ishantv2309-ux/output/github-contribution-grid-snake.svg">
-</picture>
+class ShivamSingh:
+    def __init__(self):
+        self.name = "Shivam Singh"
+        self.year = "2nd Year Engineering"
+        self.machine = "Mac"
+        self.languages = ["C++", "Java", "JavaScript", "Python"]
+        self.frontend = ["HTML", "CSS", "ReactJS", "TypeScript"]
+        self.hobbies = ["Building projects with AI", "Debugging software"]
+
+    def current_mode(self):
+        return f"{self.name} ({self.year}) on {self.machine}: coding, shipping, and debugging."
+
+if __name__ == "__main__":
+    shivam = ShivamSingh()
+    print(shivam.current_mode())
