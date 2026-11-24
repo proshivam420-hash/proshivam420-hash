@@ -2,9 +2,6 @@
 <p align="center">
   <em>2nd Year Engineering Student • Writing code, building with AI, and debugging on macOS.</em>
 </p>
-<p align="center">
-  <em>Writing code, building projects with AI, and tracking down tricky bugs on macOS.</em>
-</p>
 
 ---
 
@@ -70,8 +67,17 @@
 ### 🚀 Featured Engineering Projects
 
 - **LoopYard:** Closed-loop industrial waste management and factory symbiosis project built on GitHub (`LoopYard`).
-- **Lost & Found (`lost_found`):** JavaScript-based web application for reporting and tracking lost and found items[cite: 8].
+- **Lost & Found (`lost_found`):** JavaScript-based web application for reporting and tracking lost and found items.
 - **AI-Assisted Builds & Debugging Tools:** Experimental projects and utilities developed with AI workflows and hands-on debugging.
+
+<details>
+  <summary><b>🔍 Expand Current Build & Debug Notes</b></summary>
+  <br>
+  <ul>
+    <li><b>Active Focus:</b> Refining project builds, testing edge cases, and squashing bugs on Mac.</li>
+    <li><b>Repos Highlighted:</b> <code>LoopYard</code> and <code>lost_found</code>.</li>
+  </ul>
+</details>
 
 ---
 
