@@ -1,7 +1,7 @@
+<h1 align="center">Hi there, I'm Shivam Singh 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Shivam+Singh+👋;2nd+Year+Engineering+Student+💻;Building+with+AI+%26+Debugging+on+Mac" alt="Typing Animation" />
+  <em>2nd Year Engineering Student • Writing code, building with AI, and debugging on macOS.</em>
 </p>
-
 <p align="center">
   <em>Writing code, building projects with AI, and tracking down tricky bugs on macOS.</em>
 </p>
