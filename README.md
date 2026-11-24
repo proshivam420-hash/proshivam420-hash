@@ -15,17 +15,17 @@
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark" alt="C++, Java, JavaScript, Python" />
+  <img src="[https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark](https://skillicons.dev/icons?i=cpp,java,js,py&theme=dark)" alt="C++, Java, JavaScript, Python" />
 </p>
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts&theme=dark" alt="HTML, CSS, ReactJS, TypeScript" />
+  <img src="[https://skillicons.dev/icons?i=html,css,react,ts&theme=dark](https://skillicons.dev/icons?i=html,css,react,ts&theme=dark)" alt="HTML, CSS, ReactJS, TypeScript" />
 </p>
 
 #### Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Most useful developer tools" />
+  <img src="[https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark)" alt="Most useful developer tools" />
 </p>
 
 ---
@@ -40,7 +40,9 @@
 |  Focus  : AI-powered builds + debugging software      |
 |  Machine: Mac                                         |
 +-------------------------------------------------------+
+```
 
+```python
 class ShivamSingh:
     def __init__(self):
         self.name = "Shivam Singh"
@@ -56,3 +58,14 @@ class ShivamSingh:
 if __name__ == "__main__":
     shivam = ShivamSingh()
     print(shivam.current_mode())
+```
+
+---
+
+### 🐍 Contribution Graph Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake-dark.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg)">
+  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/proshivam420-hash/proshivam420-hash/output/github-contribution-grid-snake.svg)">
+</picture>
